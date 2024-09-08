@@ -22,6 +22,9 @@ The dataset used for this project contains patient data related to diabetes diag
 
 The dataset can be found here.
 
+## Diagram 
+![WhatsApp Image 2024-09-08 at 22 55 41_4b614e7c](https://github.com/user-attachments/assets/6257b21d-e5f9-487a-ad45-a4a7b9018994)
+
 
 ### Steps followed 
 Step 1: Import Libraries
